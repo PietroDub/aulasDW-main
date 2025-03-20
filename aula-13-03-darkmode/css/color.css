@@ -1,0 +1,23 @@
+/* :root é o seletor base, aplicando a todo 
+o documento geralmente utilizado para variaveis*/
+:root{
+    /* Tema Claro */
+    --bg-color: #F5F5F5;
+    --text-color: #4B164C;
+    --navbar-bg: #F8E7F6;
+    --card-bg: #f3ecec;
+    --footer-bg: #F8E7F6;
+    --details: #DD88CF;
+
+    /* Tema Ecuro */
+    body.dark-mode{
+        --bg-color: #000;
+        --text-color: #fff;
+        --navbar-bg: #1f1f1f;
+        --card-bg: #1e1e1e;
+        --footer-bg: #1f1f1f; 
+        --details: #fff;
+    }
+}
+
+
