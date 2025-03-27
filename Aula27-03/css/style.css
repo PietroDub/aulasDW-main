@@ -82,3 +82,10 @@ table, tbody, tr, td{
 body{
     font-family: "Open Sans", sans-serif;
 }
+
+.botao{
+    background-color: #f7e78c;
+    min-width: 50px;
+    min-height: 50px;
+    font-size: 25px;   
+}
